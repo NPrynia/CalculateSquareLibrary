@@ -9,3 +9,4 @@ E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debu
 E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\refint\CalculateSquareLibrary.dll
 E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.pdb
 E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\ref\CalculateSquareLibrary.dll
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.sourcelink.json

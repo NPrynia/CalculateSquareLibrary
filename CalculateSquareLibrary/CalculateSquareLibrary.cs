@@ -2,16 +2,21 @@
 {
     abstract public class Figure
     {
-     
         public abstract double getArea();
     }
+
     public class Circle : Figure 
     { 
         private double Radius {get; set;}
         public  Circle(double r)
         {
+            if (r <= 0 )
+            {
+                throw new ArgumentException("Радиус круга не может быть меньше 0");
+            }
             Radius = r;
         }
+
         public override double getArea() 
         { 
             return Math.Round(Math.PI * Math.Pow(Radius,2),2); 
@@ -25,6 +30,11 @@
         private double Perimeter { get; set; }
         public Triangle(double a, double b, double c)
         {
+            if (a <= 0 | b <= 0 | c <= 0)
+            {
+                throw new ArgumentException("Стороны треугольника не могут быть меньше 0");
+            }
+
             if (a + b > c & a + c > b & b + c > a)
             {
                 A = a;

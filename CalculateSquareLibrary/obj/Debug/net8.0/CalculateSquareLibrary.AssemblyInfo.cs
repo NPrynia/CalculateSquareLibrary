@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculateSquareLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f632324647279d437940559f0d46b20b9eb3591e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculateSquareLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculateSquareLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
