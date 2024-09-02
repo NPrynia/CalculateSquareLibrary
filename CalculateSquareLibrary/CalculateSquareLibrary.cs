@@ -2,12 +2,15 @@
 {
     abstract public class Figure
     {
+        //Абстрактный метод на вычисление площади
         public abstract double getArea();
     }
 
     public class Circle : Figure 
     { 
         private double Radius {get; set;}
+
+        //Конструктор класса, с проверкой данных
         public  Circle(double r)
         {
             if (r <= 0 )
@@ -17,6 +20,7 @@
             Radius = r;
         }
 
+        //Метод вычисления площади круга
         public override double getArea() 
         { 
             return Math.Round(Math.PI * Math.Pow(Radius,2),2); 
@@ -28,6 +32,9 @@
         private double B { get; set; }
         private double C { get; set; }
         private double Perimeter { get; set; }
+
+
+        //Конструктор класса, с проверкой данных
         public Triangle(double a, double b, double c)
         {
             if (a <= 0 | b <= 0 | c <= 0)
@@ -48,12 +55,13 @@
     
            
         }
-
+        //Метод для поулчения периметра треугольника
         private void getPerimeter() 
         {
             Perimeter = A + B + C;  
         }
-        
+
+        //Метод вычисления площади треугольника
         public override double getArea()
         {
             if (Perimeter == 0)
@@ -63,6 +71,8 @@
 
             return Math.Round((Math.Sqrt(Perimeter / 2 * (Perimeter / 2 - A) * (Perimeter / 2 - B) * (Perimeter / 2 - C))),2);
         }
+
+        //Метод для проверки является ли треугольник прямоугольным
         public bool isRight()
         {
             double max =A;
