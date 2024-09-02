@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateSquareLibrary", "CalculateSquareLibrary\CalculateSquareLibrary.csproj", "{A9D0A44B-D8D2-4892-91FA-C81A96C3269E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSquareLibraryTest", "CalculateSquareLibraryTest\CalculateSquareLibraryTest.csproj", "{7EB23FE9-297B-431E-86FC-877060A88E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D0A44B-D8D2-4892-91FA-C81A96C3269E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D0A44B-D8D2-4892-91FA-C81A96C3269E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D0A44B-D8D2-4892-91FA-C81A96C3269E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D0A44B-D8D2-4892-91FA-C81A96C3269E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB23FE9-297B-431E-86FC-877060A88E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB23FE9-297B-431E-86FC-877060A88E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB23FE9-297B-431E-86FC-877060A88E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB23FE9-297B-431E-86FC-877060A88E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2C91CAC-6B20-473F-9A2E-91F9B0DA3FCF}
+	EndGlobalSection
+EndGlobal

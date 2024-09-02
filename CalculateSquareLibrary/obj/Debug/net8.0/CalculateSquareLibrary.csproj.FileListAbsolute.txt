@@ -1,0 +1,11 @@
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\bin\Debug\net8.0\CalculateSquareLibrary.deps.json
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\bin\Debug\net8.0\CalculateSquareLibrary.dll
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\bin\Debug\net8.0\CalculateSquareLibrary.pdb
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.AssemblyInfoInputs.cache
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.AssemblyInfo.cs
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.csproj.CoreCompileInputs.cache
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.dll
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\refint\CalculateSquareLibrary.dll
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\CalculateSquareLibrary.pdb
+E:\Programming\project\C#\CalculateSquareLibrary\CalculateSquareLibrary\obj\Debug\net8.0\ref\CalculateSquareLibrary.dll
